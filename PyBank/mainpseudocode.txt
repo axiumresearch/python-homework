@@ -1,0 +1,8 @@
+Define total number of months in dataset.
+    List the dataset by month with its gain or loss.
+Add all the profit and loss to find the net profit or loss.
+    Add all the int up and print the resulting net value.
+Find the average change between profit and loss. 
+    Average = n1 + n2 + n3 + ... / m.total
+Define the greatest increase and the month it occured as well as the greatest loss and the month it occured.
+    Print the month of greatest profit and the month of greatest loss
